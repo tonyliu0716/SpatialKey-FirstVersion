@@ -1,6 +1,8 @@
-# SpatialKey Server Coding Test
+# SpatialKey
 
-This repository is a vanilla Maven Spring Boot project. You can ensure that your environment is properly configured by 
+This project was a main part of the larger application, provide search function.
+
+This Project is a Maven Spring Boot project. You can ensure that your environment is properly configured by 
 running the main method in com.spatialkey.MainController. Once the server has started, you can point your browser to 
 [http://localhost:8080](http://localhost:8080) to view the output.
 
